@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+
+.imagem{
+    width: 400px;
+    height: 400px;
+    background-image: -webkit-image-set("ichigo.webp");
+    border: 7px solid rgb(141, 12, 12);
+    border-radius: 25px;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 150px;
+    padding-left: 120px;
+    text-align: center;
+}
+.abaixo{
+    position: absolute;
+
+}
+

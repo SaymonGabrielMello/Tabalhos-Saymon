@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+h1{
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center
+}
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Protest+Strike&display=swap');
+p{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    background-color: rgb(70, 85, 52, 0.3);
+}
